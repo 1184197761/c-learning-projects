@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.v": "verilog",
+        "include.h": "c",
+        "typesdef.h": "c",
+        "stdint.h": "c",
+        "defs.h": "c",
+        "tx_peg_ll_module.h": "c",
+        "tx_peg_debug.h": "c",
+        "test.h": "c",
+        "tx_peg_ll_sysaes.h": "c",
+        "tx_peg_ll_usart.h": "c",
+        "tx_peg_ll_gpio.h": "c",
+        "string.h": "c",
+        "tx_peg_ll_m2m.h": "c",
+        "main.h": "c",
+        "user.h": "c",
+        "jpg.h": "c",
+        "tx_peg.h": "c"
+    },
+    "commentTranslate.source": "Kaiqun.tencent-cloud-translate-tencentCloud",
+    "commentTranslate.multiLineMerge": true,
+    "commentTranslate.hover.enabled": true,
+    "commentTranslate.targetLanguage": "zh-CN"
+}
